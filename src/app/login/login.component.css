@@ -1,0 +1,31 @@
+.login-box{ 
+    width: 34%;
+    margin: 0 auto;
+    padding: 10px;
+    border: solid 1px #CCC;
+    margin-top: 40px;
+    padding: 20px;
+    border-top: solid 4px #0084bf;
+    
+}
+.login-box label{
+    font-size: 14px;
+}
+.login-box h1{    
+    font-size: 26px;
+}
+
+.login-box .form-control {  
+border-radius: 0;
+box-shadow: none;
+border-color: #d2d6de;
+padding: 2px;
+
+}
+
+.btn{
+    background: #0084bf;
+    color: #FFF;
+    border-radius: 1px;
+    padding: 4px 10px 4px 10px;
+}
